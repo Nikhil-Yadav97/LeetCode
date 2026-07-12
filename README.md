@@ -39,4 +39,16 @@
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## Math
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0282-expression-add-operators) |
+## String
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0282-expression-add-operators) |
+## Backtracking
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
