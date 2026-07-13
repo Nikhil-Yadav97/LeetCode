@@ -41,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0127-word-ladder) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
@@ -49,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0282-expression-add-operators) |
 ## Backtracking
 |  |
@@ -62,6 +64,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0547-number-of-provinces) |
