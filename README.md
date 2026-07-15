@@ -9,6 +9,7 @@
 | [0130-surrounded-regions](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0130-surrounded-regions) |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
@@ -58,6 +61,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0282-expression-add-operators) |
+| [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
 | ------- |
@@ -69,6 +73,7 @@
 | [0207-course-schedule](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -83,6 +88,7 @@
 | [0210-course-schedule-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -92,6 +98,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
