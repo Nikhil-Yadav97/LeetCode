@@ -32,6 +32,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0207-course-schedule](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -75,6 +77,7 @@
 | [0210-course-schedule-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -88,6 +91,7 @@
 | [0207-course-schedule](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -102,5 +106,10 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
