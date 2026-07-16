@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0198-house-robber) |
@@ -36,6 +37,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -119,6 +121,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0778-swim-in-rising-water) |
