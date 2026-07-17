@@ -39,6 +39,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0127-word-ladder) |
 | [0282-expression-add-operators](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0282-expression-add-operators) |
 | [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
