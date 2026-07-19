@@ -51,6 +51,7 @@
 | [0072-edit-distance](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0213-house-robber-ii) |
@@ -90,6 +91,7 @@
 | [0044-wildcard-matching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0282-expression-add-operators](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0282-expression-add-operators) |
 | [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1143-longest-common-subsequence) |
