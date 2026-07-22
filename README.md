@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
