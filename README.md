@@ -26,6 +26,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
