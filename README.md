@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0057-insert-interval](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -31,6 +32,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1260-shift-2d-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
