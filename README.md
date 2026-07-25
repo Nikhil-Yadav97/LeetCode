@@ -57,6 +57,7 @@
 | [0072-edit-distance](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0198-house-robber) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0207-course-schedule) |
@@ -224,11 +226,13 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
