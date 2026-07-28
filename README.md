@@ -50,6 +50,7 @@
 | [0088-merge-sorted-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -254,4 +256,8 @@
 | [0199-binary-tree-right-side-view](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
