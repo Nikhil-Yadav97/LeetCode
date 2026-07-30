@@ -28,6 +28,7 @@
 | [0778-swim-in-rising-water](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1024-video-stitching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1024-video-stitching) |
 | [1260-shift-2d-grid](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -75,6 +76,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1024-video-stitching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1024-video-stitching) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -83,6 +85,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1024-video-stitching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1024-video-stitching) |
 ## Prefix Sum
 |  |
 | ------- |
