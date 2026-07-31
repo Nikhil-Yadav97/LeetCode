@@ -33,6 +33,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1024-video-stitching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1024-video-stitching) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
 | ------- |
