@@ -22,6 +22,7 @@
 | [0322-coin-change](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
@@ -78,6 +79,7 @@
 | [0322-coin-change](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0282-expression-add-operators) |
+| [0486-predict-the-winner](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0486-predict-the-winner) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 ## String
 |  |
@@ -220,6 +223,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0486-predict-the-winner) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -295,4 +299,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
