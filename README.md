@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -139,6 +140,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0046-permutations) |
 | [0282-expression-add-operators](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
