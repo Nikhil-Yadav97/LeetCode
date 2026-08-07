@@ -125,6 +125,7 @@
 | [0486-predict-the-winner](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0877-stone-game) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -313,4 +314,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
