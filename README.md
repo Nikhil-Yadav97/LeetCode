@@ -91,6 +91,7 @@
 | [1024-video-stitching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1024-video-stitching) |
 | [1140-stone-game-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1510-stone-game-iv](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
@@ -128,6 +129,7 @@
 | [0486-predict-the-winner](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1510-stone-game-iv) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
@@ -319,6 +321,7 @@
 | [0486-predict-the-winner](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
@@ -327,8 +330,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
