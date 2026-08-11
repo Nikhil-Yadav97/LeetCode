@@ -41,6 +41,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -122,6 +124,7 @@
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
