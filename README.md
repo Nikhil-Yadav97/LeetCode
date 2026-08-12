@@ -354,4 +354,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
