@@ -24,6 +24,7 @@
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1140-stone-game-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -117,6 +119,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0127-word-ladder) |
+| [0525-contiguous-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
