@@ -133,6 +133,7 @@
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
@@ -324,6 +326,7 @@
 | [0239-sliding-window-maximum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Queue
 |  |
 | ------- |
