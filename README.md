@@ -120,6 +120,7 @@
 | [1140-stone-game-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1140-stone-game-ii) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1915-number-of-wonderful-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1915-number-of-wonderful-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1915-number-of-wonderful-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1915-number-of-wonderful-substrings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -158,6 +160,7 @@
 | [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [1143-longest-common-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1915-number-of-wonderful-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1915-number-of-wonderful-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -375,4 +378,5 @@
 |  |
 | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1915-number-of-wonderful-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1915-number-of-wonderful-substrings) |
 <!---LeetCode Topics End-->
