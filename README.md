@@ -33,6 +33,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1024-video-stitching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1024-video-stitching) |
+| [1029-two-city-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1140-stone-game-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1260-shift-2d-grid](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
+| [1029-two-city-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -111,6 +113,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1024-video-stitching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1024-video-stitching) |
+| [1029-two-city-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -379,4 +382,12 @@
 | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1915-number-of-wonderful-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1915-number-of-wonderful-substrings) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
