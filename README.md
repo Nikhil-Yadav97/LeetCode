@@ -38,6 +38,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1260-shift-2d-grid](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1539-kth-missing-positive-number](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -118,6 +119,7 @@
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1024-video-stitching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1386-cinema-seat-allocation](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
@@ -140,6 +142,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1386-cinema-seat-allocation](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1915-number-of-wonderful-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1915-number-of-wonderful-substrings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -395,6 +398,7 @@
 |  |
 | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1386-cinema-seat-allocation](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1915-number-of-wonderful-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1915-number-of-wonderful-substrings) |
 ## Hungarian Algorithm
 |  |
