@@ -93,6 +93,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0322-coin-change) |
+| [0397-integer-replacement](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0486-predict-the-winner) |
@@ -116,6 +117,7 @@
 | [0044-wildcard-matching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1024-video-stitching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1029-two-city-scheduling) |
@@ -397,6 +399,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0397-integer-replacement) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1915-number-of-wonderful-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1915-number-of-wonderful-substrings) |
@@ -408,4 +411,8 @@
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1029-two-city-scheduling) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
