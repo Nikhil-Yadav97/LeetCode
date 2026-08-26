@@ -21,6 +21,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0322-coin-change) |
+| [0406-queue-reconstruction-by-height](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0486-predict-the-winner) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0406-queue-reconstruction-by-height](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0721-accounts-merge](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0721-accounts-merge) |
 | [1029-two-city-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -288,10 +290,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Stack
