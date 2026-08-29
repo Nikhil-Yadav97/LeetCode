@@ -422,6 +422,7 @@
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0178-rank-scores) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 ## Ordered Set
 |  |
 | ------- |
