@@ -47,6 +47,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -133,6 +134,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
