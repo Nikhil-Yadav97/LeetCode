@@ -57,6 +57,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3979-maximum-valid-pair-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3979-maximum-valid-pair-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -395,6 +396,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3979-maximum-valid-pair-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3979-maximum-valid-pair-sum) |
 ## Minimax
 |  |
 | ------- |
