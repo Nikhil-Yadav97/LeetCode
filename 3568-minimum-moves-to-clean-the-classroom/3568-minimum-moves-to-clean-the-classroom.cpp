@@ -15,9 +15,8 @@ public:
         int sx, sy;
         int littercount = 0;
 
-        vector<vector<int>> litterno(n, vector<int>(m, -1));
+        vector<vector<int>> litterno(n, vector<int>(m, 0));
 
-        // Find start and number litter
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
 
@@ -27,7 +26,8 @@ public:
                 }
 
                 if (classroom[i][j] == 'L') {
-                    litterno[i][j] = littercount++;
+                    littercount++;
+                    litterno[i][j] = littercount;
                 }
             }
         }
@@ -35,24 +35,22 @@ public:
         int totalMasks = 1 << littercount;
         int reqmask = totalMasks - 1;
 
-        /*
-            maxEnergy[x][y][mask]
-
-            Maximum energy with which we have reached
-            (x, y) after collecting 'mask' litter.
-        */
-        vector<vector<vector<int>>> maxEnergy(
+        // vis[row][col][energy][mask]
+        vector<vector<vector<vector<bool>>>> vis(
             n,
-            vector<vector<int>>(
+            vector<vector<vector<bool>>>(
                 m,
-                vector<int>(totalMasks, -1)
+                vector<vector<bool>>(
+                    energy + 1,
+                    vector<bool>(totalMasks, false)
+                )
             )
         );
 
         queue<state> q;
 
         q.push({sx, sy, energy, 0});
-        maxEnergy[sx][sy][0] = energy;
+        vis[sx][sy][energy][0] = true;
 
         int nrow[] = {-1, 0, 1, 0};
         int ncol[] = {0, 1, 0, -1};
@@ -65,10 +63,10 @@ public:
 
             while (sz--) {
 
-                auto [row, col, ene, mask] = q.front();
+                auto [row, col, ene, msk] = q.front();
                 q.pop();
 
-                if (mask == reqmask)
+                if (msk == reqmask)
                     return moves;
 
                 if (ene == 0)
@@ -79,48 +77,37 @@ public:
                     int r = row + nrow[i];
                     int c = col + ncol[i];
 
-                    // Boundary
                     if (r < 0 || r >= n || c < 0 || c >= m)
                         continue;
 
-                    // Wall
                     if (classroom[r][c] == 'X')
                         continue;
 
-                    // One move consumes one energy
-                    int newEnergy = ene - 1;
-
-                    int newMask = mask;
-
-                    // Collect litter
-                    if (classroom[r][c] == 'L') {
-
-                        int lno = litterno[r][c];
-
-                        newMask |= (1 << lno);
-                    }
+                    int newene = ene - 1;
+                    int newmask = msk;
 
                     // Recharge
                     if (classroom[r][c] == 'R') {
-                        newEnergy = energy;
+                        newene = energy;
                     }
 
-                    /*
-                        If we have already reached this
-                        (r, c, newMask) with >= energy,
-                        this state is useless.
-                    */
-                    if (maxEnergy[r][c][newMask] >= newEnergy)
-                        continue;
+                    // Litter
+                    if (classroom[r][c] == 'L') {
+                        int lno = litterno[r][c];
+                        newmask |= 1 << (lno - 1);
+                    }
 
-                    maxEnergy[r][c][newMask] = newEnergy;
+                    if (!vis[r][c][newene][newmask]) {
 
-                    q.push({
-                        r,
-                        c,
-                        newEnergy,
-                        newMask
-                    });
+                        vis[r][c][newene][newmask] = true;
+
+                        q.push({
+                            r,
+                            c,
+                            newene,
+                            newmask
+                        });
+                    }
                 }
             }
 
