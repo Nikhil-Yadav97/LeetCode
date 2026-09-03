@@ -59,6 +59,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3979-maximum-valid-pair-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3979-maximum-valid-pair-sum) |
 ## Binary Search
 |  |
@@ -187,6 +188,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
