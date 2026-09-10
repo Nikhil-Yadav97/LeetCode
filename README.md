@@ -242,6 +242,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -369,6 +370,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -381,6 +383,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Counting Sort
 |  |
