@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -371,6 +373,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Design
 |  |
