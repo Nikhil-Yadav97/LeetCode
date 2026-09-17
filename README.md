@@ -32,6 +32,7 @@
 | [0778-swim-in-rising-water](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1024-video-stitching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1029-two-city-scheduling) |
@@ -277,6 +278,7 @@
 | [0785-is-graph-bipartite](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0994-rotting-oranges) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -309,6 +311,7 @@
 | [0130-surrounded-regions](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1937-maximum-number-of-points-with-cost) |
