@@ -478,6 +478,7 @@
 | ------- |
 | [0178-rank-scores](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0182-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1661-average-time-of-process-per-machine](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 ## Ordered Set
