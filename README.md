@@ -54,6 +54,7 @@
 | [2029-stone-game-ix](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -145,6 +146,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1872-stone-game-viii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1937-maximum-number-of-points-with-cost) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2827-number-of-beautiful-integers-in-the-range) |
@@ -338,6 +340,7 @@
 | [1260-shift-2d-grid](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1937-maximum-number-of-points-with-cost) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Topological Sort
 |  |
@@ -561,4 +564,5 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
