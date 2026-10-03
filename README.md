@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -238,6 +239,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -386,6 +388,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -572,6 +575,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
