@@ -59,6 +59,7 @@
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -177,6 +178,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
@@ -211,6 +213,7 @@
 | [1915-number-of-wonderful-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1915-number-of-wonderful-substrings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -546,6 +549,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1915-number-of-wonderful-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1915-number-of-wonderful-substrings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hungarian Algorithm
