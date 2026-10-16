@@ -61,6 +61,7 @@
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -220,6 +221,7 @@
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -400,6 +402,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -407,6 +410,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Stack
 |  |
