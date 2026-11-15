@@ -48,6 +48,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -180,6 +181,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -225,6 +227,7 @@
 | [0525-contiguous-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1140-stone-game-ii) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -277,6 +280,7 @@
 | [1140-stone-game-ii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1872-stone-game-viii) |
