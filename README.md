@@ -66,6 +66,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -138,6 +139,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -215,6 +217,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nikhil-Yadav97/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
